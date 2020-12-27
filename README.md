@@ -1,2 +1,2 @@
-# face-recognition
+# face-recognition-Frontend
 Allow users to upload an image url and detect faces inside of it.
