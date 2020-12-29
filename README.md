@@ -1,5 +1,5 @@
 # Face Recognition Web App
-  The app uses [Clarifai’s face detection model API](https://www.clarifai.com/models/face-detection) to detect faces in images. The app sends the public URL of images to Clarifai and receives co-ordinates of all the faces in the image.
+The app uses [Clarifai’s face detection model API](https://www.clarifai.com/models/face-detection) to detect faces in images. The app sends the public URL of images to Clarifai and receives co-ordinates of all the faces in the image.
 
 
 ## Built with
@@ -16,14 +16,14 @@
 
 ## Features and Site
 
-### New User registration
+### New User Registration
 ![register page](https://github.com/wgao2160/face-recognition/blob/main/img/register.jpg?raw=true)
 
-### Existing User login
+### Existing User Login
 ![login page](https://github.com/wgao2160/face-recognition/blob/main/img/signin.jpg?raw=true)
 
 ### Picture Counter for Each User
 ![main page](https://github.com/wgao2160/face-recognition/blob/main/img/mainpage.jpg?raw=true)
 
-### Drawing Square Around Face in Picture
+### Detect Face in Picture
 ![main page](https://github.com/wgao2160/face-recognition/blob/main/img/function.jpg?raw=true)
