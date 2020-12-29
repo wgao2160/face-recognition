@@ -17,14 +17,13 @@
 ## Features and Site
 
 ### New User registration
-
-![](https://github.com/wgao2160/face-recognition/blob/main/img/function.jpg?raw=true)
+![register page](https://github.com/wgao2160/face-recognition/blob/main/img/register.jpg?raw=true)
 
 ### Existing User login
-![](https://github.com/wgao2160/face-recognition/blob/main/img/mainpage.jpg?raw=true)
+![login page](https://github.com/wgao2160/face-recognition/blob/main/img/signin.jpg?raw=true)
 
 ### Picture Counter for Each User
-![](https://github.com/wgao2160/face-recognition/blob/main/img/mainpage.jpg?raw=true)
+![main page](https://github.com/wgao2160/face-recognition/blob/main/img/mainpage.jpg?raw=true)
 
 ### Drawing Square Around Face in Picture
-![](https://github.com/wgao2160/face-recognition/blob/main/img/function.jpg?raw=true)
+![main page](https://github.com/wgao2160/face-recognition/blob/main/img/function.jpg?raw=true)
