@@ -4,7 +4,7 @@
 
 ## Built with
 * Front End – Tachyons, React
-* Server – Node.js, Express.js
+* Back End – Node.js, Express.js
 * Database – PostgreSQL
 * Deploy – Heroku
 
@@ -18,13 +18,13 @@
 
 ### New User registration
 
-![](https://github.com/wgao2160/face-recognition/img/register.JPG)
+![](https://ibb.co/HrXZRTG)
 
 ### Existing User login
-![](https://github.com/wgao2160/face-recognition/img/signin.JPG)
+![](https://ibb.co/7rvFWpP)
 
 ### Picture Counter for Each User
-![](https://github.com/wgao2160/face-recognition/img/mainpage.JPG)
+![](https://ibb.co/JmFCdcb)
 
 ### Drawing Square Around Face in Picture
-![](https://github.com/wgao2160/face-recognition/img/function.JPG)
+![](https://ibb.co/1TqBXMk)
