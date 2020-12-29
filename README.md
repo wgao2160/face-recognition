@@ -18,13 +18,13 @@
 
 ### New User registration
 
-![](https://ibb.co/HrXZRTG)
+![](https://github.com/wgao2160/face-recognition/blob/main/img/function.jpg?raw=true)
 
 ### Existing User login
-![](https://ibb.co/7rvFWpP)
+![](https://github.com/wgao2160/face-recognition/blob/main/img/mainpage.jpg?raw=true)
 
 ### Picture Counter for Each User
-![](https://ibb.co/JmFCdcb)
+![](https://github.com/wgao2160/face-recognition/blob/main/img/mainpage.jpg?raw=true)
 
 ### Drawing Square Around Face in Picture
-![](https://ibb.co/1TqBXMk)
+![](https://github.com/wgao2160/face-recognition/blob/main/img/function.jpg?raw=true)
